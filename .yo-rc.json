@@ -1,0 +1,9 @@
+{
+  "generator-teams": {
+    "promptValues": {
+      "developer": "Jenkins NS"
+    },
+    "libraryName": "teamsdeployment",
+    "generator-version": "4.0.1"
+  }
+}
