@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'infosysteamsAppdeploy'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0055A891D78441B6B56E72A0A3CB6C93 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_381D604302B843909D40AD3A8BC2B464 }}
           package: .
